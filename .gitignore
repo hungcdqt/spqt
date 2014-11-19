@@ -1,0 +1,7 @@
+/*
+!/.gitignore
+!/templates
+/templates/*
+!/templates/purity
+/templates/purity/*
+!/templates/purity/less
