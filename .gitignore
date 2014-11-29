@@ -6,3 +6,4 @@
 /templates/purity/*
 !/templates/purity/less
 !/template/t3_blank
+/template/t3_blank/css/*
